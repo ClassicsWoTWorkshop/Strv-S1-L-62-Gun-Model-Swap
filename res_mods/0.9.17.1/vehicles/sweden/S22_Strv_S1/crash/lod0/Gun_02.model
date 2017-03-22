@@ -1,0 +1,10 @@
+<gun_02.model>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-0.349498 -0.391122 0.0220817</min>
+    <max>0.34959 0.125459 4.3983</max>
+  </visibilityBox>
+  <tank>	true	</tank>
+  <nodelessVisual>vehicles/sweden/S22_Strv_S1/normal/lod0/Gun_02</nodelessVisual>
+</gun_02.model>
