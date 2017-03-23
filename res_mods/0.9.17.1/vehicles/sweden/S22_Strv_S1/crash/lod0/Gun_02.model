@@ -6,5 +6,5 @@
     <max>0.34959 0.125459 4.3983</max>
   </visibilityBox>
   <tank>	true	</tank>
-  <nodelessVisual>vehicles/sweden/S22_Strv_S1/normal/lod0/Gun_02</nodelessVisual>
+  <nodelessVisual>vehicles/sweden/S22_Strv_S1/crash/lod0/Gun_02</nodelessVisual>
 </gun_02.model>
